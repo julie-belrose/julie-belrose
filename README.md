@@ -1,69 +1,107 @@
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/julie-belrose/julie-belrose/.github.io/)  [![Author](https://img.shields.io/badge/Author-Julie%20Belrose%20-blue.svg)](https://www.linkedin.com/in/julie-belrose/) [![wakatime](https://wakatime.com/badge/user/c24f462d-ac0d-4527-9682-3cbc32e2c833.svg)](https://wakatime.com/@c24f462d-ac0d-4527-9682-3cbc32e2c833)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/julie-belrose/)
+[![Author](https://img.shields.io/badge/Author-Julie%20Belrose-blue.svg)](https://www.linkedin.com/in/julie-belrose/)
+[![wakatime](https://wakatime.com/badge/user/c24f462d-ac0d-4527-9682-3cbc32e2c833.svg)](https://wakatime.com/@c24f462d-ac0d-4527-9682-3cbc32e2c833)
 
-### Hello and welcome to my profile, I am [Julie Belrose!](https://www.linkedin.com/in/julie-belrose/) ! 👋
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<!--
-**Julie-ANANI/Julie-ANANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bonjour, je suis Julie Belrose !
 
-Here are some ideas to get you started:
+**Développeuse Full Stack | Lyon → Paris**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Après 2 ans en CDI dans une startup SaaS lyonnaise, je recherche mon prochain 
+challenge à Paris pour passer à un nouveau chapitre professionnel et me 
+rapprocher de ma famille.
 
-<!--
-<a href="https://www.linkedin.com/in/julie-anani/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
--->
+🎯 **Recherche active : CDI Dev Full Stack à Paris**  
+📍 **Mobilité immédiate** (hébergement familial Paris 12ème)  
+💼 **2 ans d'expérience** en production  
+📧 **Contact :** juliebelrose.pro@gmail.com
 
-☀️ Passionnée par le monde du développement web, j'ai amorcé un virage professionnel après des expériences enrichissantes en graphisme et en production vidéo. Cette reconversion m'a menée à une formation intensive de 6 mois en tant que développeuse full stack JavaScript, avec un accent sur les API.
+---
 
-🤝 Durant mes stages et expériences antérieures, j'ai cultivé un esprit critique, un sens aigu du détail, et une forte capacité de travail en équipe. Mon expérience en tant qu'employée polyvalente m'a permis de renforcer ma maîtrise de la relation client et d'affiner mon approche orientée qualité, toujours en quête d'anticipation des obstacles pour produire un code réfléchi et efficace.
+## 🚀 Mon profil
 
-✅ Armée de compétences clés en développement web et dotée d'un esprit tenace, je suis convaincue de pouvoir apporter une contribution significative à votre équipe.
+**Expérience professionnelle :**
+- 2 ans en CDI chez UMI (startup SaaS Lyon)
+- Développement full stack en production
+- Architecture microservices
+- 98% de résolution définitive de bugs
+- Équipe passée de 5 à 12 développeurs pendant ma présence
 
-🚀 Animée par le challenge, je suis prête à relever les défis techniques et à apporter ma pierre à l'édifice sur vos projets. Actuellement, je m'investis également dans l'amélioration de mes compétences linguistiques en anglais.
+**Formation continue :**
+- Concepteur Développeur d'Applications (Bac+4) - M2I, en cours
+- Formations IA récentes (Prompt Engineering, Coding Agents)
+- Certifications Spring Cloud, Google AI Essentials, Scrum PSM 1
 
-## GitHub Analytics
+---
 
-<!-- ![Julie's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julie-ANANI&layout=compact&langs_count=8&theme=algolia)-->
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JulieANANI\&layout=compact)
+## 💻 Stack technique
 
-</a>
-</p>
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚡ Tech Stack
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-  ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1) 
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+### Tools & Methodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
+---
 
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/julie-belrose)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaniJulie)
+## 🎯 Réalisations clés
 
+**Chez UMI (Startup SaaS) :**
+- 🏆 Développement de fonctionnalités cœur business (système de quiz automatisés en microservices)
+- 🐛 98% de résolution définitive de bugs en production
+- 🔄 Refonte complète d'applications Angular (élimination bugs, amélioration performances)
+- 🚀 Architecture microservices avec Node.js, Express, MongoDB, Kafka
+- 📊 Systèmes de reporting et analytics pour tests marché
 
- or give some ♥ on [mail](mailto:julie.anani@outlook.com) 
+**Formation M2I (Projets) :**
+- 📱 Applications mobiles (Android natif Kotlin + cross-platform React Native)
+- 🏗️ Architecture logicielles robustes pour applications d'entreprise
+- 👥 Rôle de Scrum Master sur projet métier en équipe
+- 🔧 Pipeline CI/CD complet (GitLab CI, Docker, Sonar Cloud, Trivy, AWS)
+- ☁️ Automatisation DevOps et déploiement cloud
 
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Julie-ANANI/Julie-ANANI)
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&style=STYLE_NAME)-->
+---
+
+## 📊 GitHub Stats
+
+![Julie's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JulieANANI&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julie-belrose/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliebelrose.pro@gmail.com)
+
+**💼 Recherche active : CDI Dev Full Stack à Paris**  
+**📍 Mobilité immédiate | Hébergement familial Paris 12ème**  
+**📧 juliebelrose.pro@gmail.com**  
+
+---
+
+<div align="center">
+  <i>✨ "Du code qui marche en production > De la théorie sur papier" ✨</i>
+</div>
