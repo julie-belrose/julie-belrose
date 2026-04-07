@@ -4,11 +4,11 @@
 
 # 👋 Bonjour, je suis Julie Belrose !
 
-**Développeuse Full Stack | Lyon → Paris**
+**Développeuse Full Stack**
 
-Après 2 ans en CDI dans une startup SaaS lyonnaise, je recherche mon prochain 
-challenge à Paris pour passer à un nouveau chapitre professionnel et me 
-rapprocher de ma famille.
+Graphiste de formation, développeuse Full Stack de métier. Ce parcours atypique m'a donné une chose rare : visualiser un système et intégrer l'expérience utilisateur avant même d'écrire la première ligne de code.
+J'ai forgé cette approche sur des produits réels : une plateforme Angular, IA et données à grande échelle, découpée en services indépendants. Je code avec soin, un code propre et structuré pensé pour durer.
+Avec l'IA qui redéfinit la façon de construire un produit, cette double culture devient un vrai levier. Je cherche une équipe qui construit sérieusement.
 
 🎯 **Recherche active : CDI Dev Full Stack Angular**  
 📍 **Localisation : Paris**
