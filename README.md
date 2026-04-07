@@ -10,8 +10,9 @@ Après 2 ans en CDI dans une startup SaaS lyonnaise, je recherche mon prochain
 challenge à Paris pour passer à un nouveau chapitre professionnel et me 
 rapprocher de ma famille.
 
-🎯 **Recherche active : CDI Dev Full Stack à Paris**  
-📍 **Mobilité immédiate** (hébergement familial Paris 12ème)  
+🎯 **Recherche active : CDI Dev Full Stack Angular**  
+📍 **Localisation : Paris**
+📍 **Mobilité : France & International**  
 💼 **2 ans d'expérience** en production  
 📧 **Contact :** juliebelrose.pro@gmail.com
 
@@ -27,9 +28,9 @@ rapprocher de ma famille.
 - Équipe passée de 5 à 12 développeurs pendant ma présence
 
 **Formation continue :**
-- Concepteur Développeur d'Applications (Bac+4) - M2I, en cours
+- Concepteur Développeur d'Applications (Bac+4) - M2I, formation terminée, diplôme en cours d'obtention
 - Formations IA récentes (Prompt Engineering, Coding Agents)
-- Certifications Spring Cloud, Google AI Essentials, Scrum PSM 1
+- Certifications Spring Cloud, Google AI Essentials, Scrum PSM 1 (en cours d'obtention)
 
 ---
 
@@ -71,7 +72,7 @@ rapprocher de ma famille.
 
 **Chez UMI (Startup SaaS) :**
 - 🏆 Développement de fonctionnalités cœur business (système de quiz automatisés en microservices)
-- 🐛 98% de résolution définitive de bugs en production
+- 🐛 97% de résolution définitive de bugs en production
 - 🔄 Refonte complète d'applications Angular (élimination bugs, amélioration performances)
 - 🚀 Architecture microservices avec Node.js, Express, MongoDB, Kafka
 - 📊 Systèmes de reporting et analytics pour tests marché
@@ -87,7 +88,7 @@ rapprocher de ma famille.
 
 ## 📊 GitHub Stats
 
-![Julie's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JulieANANI&layout=compact&theme=tokyonight)
+![Julie's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julie-belrose&layout=compact&theme=tokyonight)
 
 ---
 
@@ -97,11 +98,5 @@ rapprocher de ma famille.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliebelrose.pro@gmail.com)
 
 **💼 Recherche active : CDI Dev Full Stack à Paris**  
-**📍 Mobilité immédiate | Hébergement familial Paris 12ème**  
+**📍 Mobilité : France & International **  
 **📧 juliebelrose.pro@gmail.com**  
-
----
-
-<div align="center">
-  <i>✨ "Du code qui marche en production > De la théorie sur papier" ✨</i>
-</div>
