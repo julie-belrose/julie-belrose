@@ -98,5 +98,5 @@ rapprocher de ma famille.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliebelrose.pro@gmail.com)
 
 **💼 Recherche active : CDI Dev Full Stack à Paris**  
-**📍 Mobilité : France & International **  
+**📍 Mobilité : France & International**  
 **📧 juliebelrose.pro@gmail.com**  
